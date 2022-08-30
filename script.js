@@ -34,6 +34,5 @@ video.addEventListener('play', () => {
 
 // ###################
 // in need to improve my code..<><>
-// in need to improve my code..<><>
-// ###################
+  
 

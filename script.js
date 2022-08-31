@@ -11,9 +11,11 @@ function startVideo(){
     navigator.getUserMedia(
         { video: {}},
         stream => video.srcObject = stream,
-        err => console.error(err)
+        err => console.log(err)
     )
 }
+// startVideo();
+
 
 video.addEventListener('play', () => {
     const canvas = faceapi.createCanvasFromMedia(video)
@@ -32,7 +34,6 @@ video.addEventListener('play', () => {
     },  100)
 })
 
-// ###################
 // in need to improve my code..<><>
   
 

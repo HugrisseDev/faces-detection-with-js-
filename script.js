@@ -32,6 +32,6 @@ video.addEventListener('play', () => {
     },  100)
 })
 
-// in need to improve my code.!!!!!____!!!!!
+// in need to improve my code!
   
 

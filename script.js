@@ -33,9 +33,6 @@ video.addEventListener('play', () => {
 })
 
 // in need to improve my code !********
-// in need to improve my code !********
-// in need to improve my code !********
-// in need to improve my code !********
-// in need to improve my code !********
+// sme update are coming soon ! !!!
 
 
